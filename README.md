@@ -28,4 +28,5 @@ A simple full-stack web application to calculate student results.
 3. Open index.html in browser
 
 ## 📷 Output
-(Add screenshot here)
+<img width="607" height="831" alt="image" src="https://github.com/user-attachments/assets/b2e0c071-a553-4a97-992d-3e29e7a62447" />
+
